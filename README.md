@@ -4,8 +4,6 @@
 
 ### I'm a passionate Frontend Developer based in Taiwan.
 
-![Twitter Badge](https://img.shields.io/badge/-@szuyuchen8-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/szuyuchen8) [![Mail Badge](https://img.shields.io/badge/-szuyucheno-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:szuyucheno@gmail.com)
-
 - 🔭 I’m currently working on side-projects
 - 👯 I’m looking to collaborate on open source
 - 📫 How to reach me: szuyucheno@gmail.com
