@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/11/4d/87/114d878c735fb937defbf3a0aab2dccb.gif?raw=true" width="320" height="290" />
 
-### I'm a passionate Frontend Developer based in Taiwan.
+### I'm a passionate Frontend Developer.
 
 - 🔭 I’m currently working on side-projects
 - 👯 I’m looking to collaborate on open source
