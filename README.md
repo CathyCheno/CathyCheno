@@ -17,7 +17,7 @@
 
 <details>
 <summary>
-  More information
+  Click to Expand!
 </summary>
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=szuyuchen&show_icons=true&theme=local" />
